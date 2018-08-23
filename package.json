@@ -1,0 +1,21 @@
+{
+  "name": "easy-wechat-pay",
+  "version": "1.0.0",
+  "description": "A plugin to make wechat pay easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugin",
+    "weixin",
+    "pay"
+  ],
+  "author": "wuteng606",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "superagent": "^3.8.3",
+    "xml2js": "^0.4.19"
+  }
+}
